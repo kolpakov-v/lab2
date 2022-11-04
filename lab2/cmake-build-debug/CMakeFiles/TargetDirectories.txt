@@ -1,0 +1,3 @@
+/Users/viktorkolpakov/Desktop/oop/labs/lab2/cmake-build-debug/CMakeFiles/lab_2.dir
+/Users/viktorkolpakov/Desktop/oop/labs/lab2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/viktorkolpakov/Desktop/oop/labs/lab2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
